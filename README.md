@@ -12,7 +12,7 @@ One original fortune-cookie line for a software developer: "The legacy code you 
 python3 main.py
 ```
 
-Writes the line to `/output/entry.txt` (one line, 76 UTF-8 characters).
+Writes the line to `/output/entry.txt` (one line, 73 UTF-8 characters).
 
 ---
 
